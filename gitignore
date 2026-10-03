@@ -1,0 +1,11 @@
+# Virtual environment
+venv/
+
+# Generated data and models
+logs/
+features.csv
+*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
